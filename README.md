@@ -34,8 +34,8 @@ For Linux
 Only Belongs to the <b>Author </b>
 
 # Author
-Pranta Sarker <br/>
-Department of Computer Science and Engineering <br/>
+Aravind <br/>
+Department of Electronics and Communication Engineering <br/>
 North East University Bangladesh <br/>
 Sylhet, Bangladesh <br/>
 
